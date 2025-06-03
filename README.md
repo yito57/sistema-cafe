@@ -72,12 +72,12 @@ $mail->Password = 'ieib jqhz btcr ogqd'; // contraseña de aplicación de Gmail
 
 ## 👥 Desarrolladores
 
-* Integrante 1: \[Tu Nombre]
-* Integrante 2: \[Tu Nombre]
-* Integrante 3: \[Tu Nombre]
+* Integrante 1: Holger contreras
+* Integrante 2: Jaime  montes
+* Integrante 3: victor salazar
 
 ---
 
 ## 📽 Video demostrativo
 
-📺 Ver en YouTube: \[enlace al video aquí]
+📺 Ver en YouTube: (https://youtu.be/jjHDZlm7wfs)
